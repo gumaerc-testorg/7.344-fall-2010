@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 71541f90-5b13-365c-eba5-55e458e3b31c
 ---
@@ -100,7 +103,7 @@ Programmed cell death (apoptosis), a natural way by which cells die, is a tightl
 {{< anchor "cell" >}}{{< /anchor >}}p53 and cell cycle regulation
 {{< tdclose >}}
 {{< tdopen >}}
-The cell cycle consists of the series of events that take place in a cell as it divides and replicates. The cell cycle is tightly regulated in normal cells. Cancer often involves an increased rate of cell division and dysregulation of the cell cycle. We will discuss how p53 regulation of the cell cycle was discovered and how a key cell cycle gene, p21WAF1, was found to be a direct transcriptional target of p53.
+The cell cycle consists of the series of events that take place in a cell as it divides and replicates. The cell cycle is tightly regulated in normal cells. Cancer often involves an increased rate of cell division and dysregulation of the cell cycle. We will discuss how p53 regulation of the cell cycle was discovered and how a key cell cycle gene, p21{{< sup "WAF1" >}}, was found to be a direct transcriptional target of p53.
 {{< tdclose >}}
 
 {{< trclose >}}
