@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ Introduction
 
 p53 first described
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#p53)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#p53" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Linzer, D. I., and A. J. Levine. "[Characterization of a 54K Dalton Cellular SV4
 
 An oncogene turned out to be a tumor suppressor
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#oncogene)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#oncogene" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Finlay, C. A., P. W. Hinds, and A. J. Levine. "[The p53 Proto-Oncogene Can Act a
 
 p53 mutation in cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#mutation)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#mutation" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Baker, S. J., E. R. Fearon, J. M. Nigro, S. R. Hamilton, A. C. Preisinger, J. M.
 
 p53 and cancer mouse models
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#cancer)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#cancer" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Jacks, T., L. Remington, B. O. Williams, E. M. Schmitt, S. Halachmi, R. T. Brons
 
 p53 and programmed cell death (apoptosis)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#p53_and_programmed)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#p53_and_programmed" %}}
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Shaw, P., R. Bovey, S. Tardy, R. Sahli, B. Sordat, and J. Costa. "[Induction of 
 
 p53 and cell cycle regulation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#cell)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#cell" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ el-Deiry, W. S., T. Tokino, V. E. Velculescu, D. B. Levy, R. Parsons, J. M. Tren
 
 p53, DNA damage and genome integrity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#damage)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#damage" %}}
 
 
 {{< tdclose >}}
@@ -246,7 +248,7 @@ Kastan, M. B., O. Onyekwere, D. Sidransky, B. Vogelstein, and R. W. Craig. "[Par
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Field)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#Field" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Field Trip
 
 p53 and Mdm2
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Mdm2)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#Mdm2" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Wu, X., J. H. Bayle, D. Olson, and A. J. Levine. "[The p53-Mdm-2 Autoregulatory 
 
 p53 and microRNA
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#microRNA)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#microRNA" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Chang, T. C., E. A. Wentzel, O. A. Kent, K. Ramachandran, M. Mullendore, K. H. L
 
 p53 restoration therapy
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#restoration)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#restoration" %}}
 
 
 {{< tdclose >}}
@@ -348,7 +350,7 @@ Martins, C. P., L. Brown-Swigart, and G. I. Evan. "[Modeling the Therapeutic Eff
 
 Final class
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Final)
+{{% resource_link 71541f90-5b13-365c-eba5-55e458e3b31c "See the Lecture Summary" "#Final" %}}
 
 
 {{< tdclose >}}
